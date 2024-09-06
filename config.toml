@@ -1,4 +1,4 @@
-baseURL = 'http://localhost:1313'
+baseURL = 'https://emilio.red'
 title = 'emilio.red'
 theme = "hugo-blog-awesome"
 
