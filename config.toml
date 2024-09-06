@@ -1,0 +1,114 @@
+baseURL = 'http://localhost:1313'
+title = 'emilio.red'
+theme = "hugo-blog-awesome"
+
+# This is what goes in <html lang="">
+languageCode = 'en-gb'
+
+# This defines how dates are formatted
+defaultContentLanguage = "en-gb"
+
+# Enable emojis globally
+enableEmoji = true
+
+author.name = "emilio.red" 
+author.email = "contactar@emilio.red"
+
+[params]
+  goToTop = true
+  sitename = "emilio.red"
+  defaultColor = "dark" # set color mode: dark, light, auto
+  description = "Blog made by emilio.red"
+  logo = "avatar.png"
+
+############################## English language ################################
+[Languages.en-gb]
+  languageName = "English"
+  languageCode = "en-gb"
+  contentDir = "content/en"
+  weight = 1
+
+  [Languages.en-gb.menu]
+  [[Languages.en-gb.menu.main]]
+    # The page reference (pageRef) is useful for menu highlighting
+    # When pageRef is set, setting `url` is optional; it will be used as a fallback if the page is not found.
+    pageRef="/"
+    name = 'Home'
+    url = '/'
+    weight = 10
+  [[Languages.en-gb.menu.main]]
+    pageRef="posts"
+    name = 'Posts'
+    url = '/posts/'
+    weight = 20
+  [[Languages.en-gb.menu.main]]
+    pageRef="about"
+    name = 'About'
+    url = '/about/'
+    weight = 30
+
+[Languages.en-gb.params.author]
+  avatar = "avatar.png" # put the file in assets folder; also ensure that image has same height and width
+  # Note: image is not rendered if the resource(avatar image) is not found. No error is displayed.
+  intro = "emilio.red"
+  name = "emilio.red"
+  email = "contactar@emilio.red"
+  description = "CS student and programmer with experience in Python, Java, Rust and Backends. I love Linux and scripting."
+
+############################## Spanish language ################################
+[Languages.es]
+  languageName = "Español"
+  languageCode = "es"
+  contentDir = "content/es"
+  weight = 2
+
+  [Languages.es.menu]
+  [[Languages.es.menu.main]]
+    # The page reference (pageRef) is useful for menu highlighting
+    # When pageRef is set, setting `url` is optional; it will be used as a fallback if the page is not found.
+    pageRef="/"
+    name = 'Principal'
+    url = '/'
+    weight = 10
+  [[Languages.es.menu.main]]
+    pageRef="posts"
+    name = 'Entradas'
+    url = '/posts/'
+    weight = 20
+  [[Languages.es.menu.main]]
+    pageRef="about"
+    name = 'Sobre mí'
+    url = '/about/'
+    weight = 30
+
+[Languages.es.params.author]
+  avatar = "avatar.png" # put the file in assets folder; also ensure that image has same height and width
+  # Note: image is not rendered if the resource(avatar image) is not found. No error is displayed.
+  intro = "emilio.red"
+  name = "emilio.red"
+  email = "contactar@emilio.red"
+  description = "Estudiante de Ingeniería de Computadores y programador con experiencia en Python, Java, Rust y Backends. Me encanta Linux y el scripting."
+
+[[params.socialIcons]]  
+name = "mastodon"
+url = "https://mastodon.social/@emilioelgrande" 
+
+[[params.socialIcons]]
+name = "github"
+url = "https://github.com/emiliored"
+
+[[params.socialIcons]]
+name = "linkedin"
+url = "https://linkedin.com/in/emilio-macías-do-santos"
+
+[[params.socialIcons]]
+name = "email"
+url = "mailto:contactar@emilio.red"
+
+[[params.socialIcons]]
+name = "key"
+url = "https://pgp.emilio.red"
+
+[[params.socialIcons]]
+name = "rss"
+url = "index.xml"
