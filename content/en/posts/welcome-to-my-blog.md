@@ -10,7 +10,7 @@ draft: false
 In this blog post I will explain my ambitions and goals with this blog and the page.
 
 # Context
-I recently bought the domain [emilio.red](emilio.red) and I am looking to create an image of myself on the internet that allows me to develop my interests without having to give up my privacy and security along the way, let me explain.
+I recently bought the domain [emilio.red](http://emilio.red) and I am looking to create an image of myself on the internet that allows me to develop my interests without having to give up my privacy and security along the way, let me explain.
 
 ## Privacy
 By using the new domain I can use new email aliases that allow me to mask my real email address, which I am trying to centralize; by centralize, I mean that before I had several different email accounts that I used to "filter" the emails a bit. The problem with that is that it was chaos because I didn't know exactly which accounts were assigned to which emails (this fact is important, I will explain it in the next section).

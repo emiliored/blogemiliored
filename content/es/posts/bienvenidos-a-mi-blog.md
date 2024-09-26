@@ -10,7 +10,7 @@ draft: false
 En esta entrada de blog explicaré mis ambiciones y mis objetivos con este blog y la página.
 
 # Contexto
-Recientemente he comprado el dominio [emilio.red](emilio.red) y busco crear una imagen de mía en internet que me permita desarrollar mis intereses sin tener que ceder mi privacidad y seguridad por el camino, me explico.
+Recientemente he comprado el dominio [emilio.red](https://emilio.red) y busco crear una imagen de mía en internet que me permita desarrollar mis intereses sin tener que ceder mi privacidad y seguridad por el camino, me explico.
 
 ## Privacidad
 Al hacer uso del nuevo dominio puedo utilizar nuevos álias de correo que me permitan enmascarar mi dirección de correo real, en la cúal la estoy intentando centralizar; con centralizar, me refiero a que antes tenía varias cuentas de correo distintas que me servían para "filtrar" un poco los correos. El problema de aquello es que era un caos porque no sabía exactamente qué cuentas estaban asignadas a qué correos (este hecho es importante, lo explicaré en el siguiente apartado).
