@@ -79,4 +79,4 @@ I also do not want to discredit the amazing work that these communities do on th
 
 I will continue with the explanation in part 3:Debian The Bad.
 
-Greetings, [emilio.red](emilio.red) 😎
+Greetings, [emilio.red](http://emilio.red) 😎

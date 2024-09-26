@@ -31,7 +31,7 @@ There's no doubt that a few years ago, the gameplay or "gaming" in Linux was cra
 #### Proton
 
 Proton is the Windows to Linux instruction translation layer, it is built on Wine, and it is responsible for translating the DirectX, Vulcan, OpenGL instructions (which are graphical libraries) and the native Windows library instructions (aka DDLs) into instructions that Linux can interpret when you run the game.
-Well, even though in theory, this should be unstable, in many games it should not work or screw up your experience halfway through the game. Nothing could be further from the truth, in practice, Proton is surprisingly stable, with very very very good performance where most of the time (based on my experience) the FPS are better than directly running the game on Windows. Graphical glitches practically never appear or the game becomes unstable. It should also be noted that apart from all these advantages, it also has a forum [ProtonDB](protondb.com) where there is a community that tells the configurations they have used to achieve an acceptable experience.
+Well, even though in theory, this should be unstable, in many games it should not work or screw up your experience halfway through the game. Nothing could be further from the truth, in practice, Proton is surprisingly stable, with very very very good performance where most of the time (based on my experience) the FPS are better than directly running the game on Windows. Graphical glitches practically never appear or the game becomes unstable. It should also be noted that apart from all these advantages, it also has a forum [ProtonDB](http://protondb.com) where there is a community that tells the configurations they have used to achieve an acceptable experience.
 
 We can conclude that Valve together with Steam and Proton, have managed to revive "gaming" in Linux by making the experience as it should be, DOWNLOAD AND PLAY.
 
@@ -52,4 +52,4 @@ These are my opinions on **The Good** in Debian, in the future I will post new a
 
 I will continue with the explanation in part 2: Debian The Ugly.
 
-Regards, [emilio.red](emilio.red) 😎
+Regards, [emilio.red](http://emilio.red) 😎

@@ -62,4 +62,4 @@ Sientete libre de enviarme correos cifrados a la dirección pública [contactar@
 # Objetivos
 En esta introducción del blog he hablado un poco de todo, de mis pensamientos y razonamientos para el uso de éste. De eso tratará esta página espero que te guste y aguardes con ansias mis próximas entradas, ya que intentaré hacer guías de numerosas tecnologías que he ido utilizando y aprendiendo a lo largo de los años, y explicaré detallamente el por qué de su uso, y en qué se diferencian de la competencia.
 
-Un saludo, [emilio.red](emilio.red) 😎
+Un saludo, [emilio.red](http://emilio.red) 😎

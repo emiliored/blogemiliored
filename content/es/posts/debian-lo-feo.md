@@ -79,4 +79,4 @@ Tampoco quiero desprestigiar el trabajo asombroso que hacen estas comunidades so
 
 Continuaré con la explicación en la parte 3: Debian Lo Malo.
 
-Un saludo, [emilio.red](emilio.red) 😎
+Un saludo, [emilio.red](http://emilio.red) 😎

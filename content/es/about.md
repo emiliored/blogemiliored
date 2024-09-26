@@ -5,7 +5,7 @@ author: "emilio.red"
 draft: false
 ---
 
-Hola a todos, soy Emilio, un estudiante de Ingeniería de Computadores con unos añitos de experiencia laboral en programación y también en la administración de bases de datos y su desarrollo mediante Oracle PL/SQL, estuve programando Backend para el trabajo de fin de grado superior de DAM y para una empresa.
+Hola a todos, soy Emilio, un estudiante de Ingeniería de Computadores con unos añitos de experiencia laboral en programación y también en la administración de bases de datos y su desarrollo mediante Oracle PL/SQL, estuve programando Backend para el trabajo de fin de formación profesional grado superior de DAM y para una empresa.
 
 Mis estudios son: Bachillerado de ciencias, y DAM (Desarrollo de aplicaciones multiplataforma es una formación profesional superior destinada a programación general). Despues de sacarme esos cursos académicos estudié e invéstigué ampliamente por mi cuenta (porque me encanta la informática, sobre todo la programación y la seguridad [Scripting, administración, OSINT, y BlueTeam]). Dichas tecnologías intentaré explicarlas y aplicarlas mediante guías en este blog, sientete libre de ver el blog entero 😊.
 
@@ -24,12 +24,12 @@ Mis lenguajes de programación favoritos son: Java, Rust, Python, Go, C#, en ese
 
 Mis sistemas operativos favoritos son: Debian, EndeavourOS (distribución linux basada en Arch) y Windows 10, en ese orden.
 
-Si necesitáis saber qué otras tecnologías utilizo sentiros libres de mirar mi Linkedin y mi Github (al final de la página), así como de poneros en contacto conmigo mediante el correo [contactar@emilio.red](mailto:contactar@emilio.red), si necesitáis cifrar el contenido del mensaje tenéis mi clave pública también al final de la página o en [pgp.emilio.red](pgp.emilio.red).
+Si necesitáis saber qué otras tecnologías utilizo sentiros libres de mirar mi Linkedin y mi Github (al final de la página), así como de poneros en contacto conmigo mediante el correo [contactar@emilio.red](mailto:contactar@emilio.red), si necesitáis cifrar el contenido del mensaje tenéis mi clave pública también al final de la página o en [pgp.emilio.red](http://pgp.emilio.red).
 
-Poneros en contacto conmigo usando Mástodon si queréis seguirme o tener conversaciones ajenas al ámbito laboral.
+Poneros en contacto conmigo usando Mastodon si queréis seguirme o tener conversaciones ajenas al ámbito laboral.
 
 Espero que os haya gustado y os insto a leer el resto de entradas del blog donde iré poniendo las tecnologías que uso e investigo más detalladamente, así como mi Github para estar al tanto de mis proyectos.
 
 **Hay muchas tecnologías que no he hablado por ser conciso con la presentación, para saber más sobre mí mira mis redes sociales o contáctame.**
 
-Un saludo, [emilio.red](emilio.red) 😎
+Un saludo, [emilio.red](http://emilio.red) 😎

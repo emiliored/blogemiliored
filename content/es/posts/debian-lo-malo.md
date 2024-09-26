@@ -61,4 +61,4 @@ En un futuro intentaré explicar más experiencias y peripecias con Debian. 😊
 
 Con esta trilogía doy por terminada mi opinión sobre Debian. Como habéis podido intuir es mi sistema operativo favorito, me encanta aún con todos sus defectos. ❤️
 
-Un saludo, [emilio.red](emilio.red) 😎
+Un saludo, [emilio.red](http://emilio.red) 😎

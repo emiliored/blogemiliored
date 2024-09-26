@@ -53,4 +53,4 @@ Veo como algo bueno que a las entidades (en este caso el grupo de desarrollo de 
 
 Continuaré con la explicación en la parte 2: Debian Lo Feo.
 
-Un saludo, [emilio.red](emilio.red) 😎
+Un saludo, [emilio.red](http://emilio.red) 😎

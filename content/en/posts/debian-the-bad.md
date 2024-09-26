@@ -59,4 +59,4 @@ In the future I will try to explain more experiences and adventures with Debian.
 
 With this trilogy I finish my opinion on Debian. As you may have guessed, it is my favorite operating system, I love it even with all its defects. ❤️
 
-Regards, [emilio.red](emilio.red) 😎
+Regards, [emilio.red](http://emilio.red) 😎

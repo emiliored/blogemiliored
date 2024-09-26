@@ -62,5 +62,5 @@ This is a complex section and one I would like to expand on in the future, but b
 # Objectives
 In this introduction to the blog I have talked a bit about everything, about my thoughts and reasoning for using it. This is what this page is about. I hope you like it and look forward to my next posts, as I will try to make guides on numerous technologies that I have been using and learning over the years, and I will explain in detail why I use them, and how they differ from the competition.
 
-Regards, [emilio.red](emilio.red) 😎
+Regards, [emilio.red](http://emilio.red) 😎
 
